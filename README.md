@@ -10,4 +10,4 @@ Aqui estan todos los proyectos con su link al codigo y el link para verlo en acc
 |1|[Expanding Cards](https://github.com/sebudea/50proyectos50dias/tree/main/1_ExpandingCards)|[Link](https://sebudea.github.io/50proyectos50dias/1_ExpandingCards/index.html)|
 |2|[Progressive Steps](https://github.com/sebudea/50proyectos50dias/tree/main/2_ProgressSteps)|[Link](https://sebudea.github.io/50proyectos50dias/2_ProgressSteps/index.html)|
 |3|[Rotating Nav Animation](https://github.com/sebudea/50proyectos50dias/tree/main/3_RotatingNavAnimation)|[Link](https://sebudea.github.io/50proyectos50dias/3_RotatingNavAnimation/index.html)|
-|4|[Rotating Nav Animation](https://github.com/sebudea/50proyectos50dias/tree/main/4_HiddenSearch)|[Link](https://sebudea.github.io/50proyectos50dias/4_HiddenSearch/index.html)|
+|4|[Hidden Search](https://github.com/sebudea/50proyectos50dias/tree/main/4_HiddenSearch)|[Link](https://sebudea.github.io/50proyectos50dias/4_HiddenSearch/index.html)|
